@@ -24,7 +24,7 @@ body {
 }
 
 .main-header {
-  background: linear-gradient(62.5deg, rgba(55,57,249,1) 0%, rgba(47,180,223,1) 100%);
+  background: linear-gradient(62.5deg, rgba(55,57,249,1) 0%, rgba(47,180,223,1) 100%); /*62.5*/
   background-size: cover;
   min-height: 400px;
   position: relative;
@@ -40,7 +40,7 @@ body {
 }
 
 footer {
-  background: linear-gradient(62.5deg, rgba(55,57,249,1) 0%, rgba(47,180,223,1) 100%);
+  background: linear-gradient(125deg, rgba(55,57,249,1) 0%, rgba(47,180,223,1) 100%);
   background-size: cover;
   min-height: 80px;
   position: relative;
@@ -48,4 +48,14 @@ footer {
 
 .margen-top {
   margin-top: 28px;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1);
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4);
 }
