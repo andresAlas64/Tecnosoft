@@ -24,7 +24,7 @@ body {
 }
 
 .main-header {
-  background: linear-gradient(62.5deg, rgba(55,57,249,1) 0%, rgba(47,180,223,1) 100%); /*62.5*/
+  background: linear-gradient(82deg, rgba(55,57,249,1) 0%, rgba(47,180,223,1) 100%); /*82*/
   background-size: cover;
   min-height: 400px;
   position: relative;
@@ -40,7 +40,7 @@ body {
 }
 
 footer {
-  background: linear-gradient(125deg, rgba(55,57,249,1) 0%, rgba(47,180,223,1) 100%);
+  background: linear-gradient(82deg, rgba(55,57,249,1) 0%, rgba(47,180,223,1) 100%);
   background-size: cover;
   min-height: 80px;
   position: relative;
