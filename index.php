@@ -2,8 +2,6 @@
   $titulo = 'Tecnosoft';
 
   include_once 'plantillas/docDeclaracion.php';
-
-  /*include_once 'plantillas/navbar.php';*/
 ?>
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container">
@@ -31,12 +29,11 @@
     <div class="background-overlay text-white py-5">
       <div class="container">
         <div class="row">
-          <div class="col-md-6 justify-content-center align-self-center">
+          <div class="col-md-6 justify-content-center align-self-center container-left">
             <h1>Tecnología avanzada para tus necesidades</h1>
             <p>Lorem ipsum dolor sit amet</p>
-            <!--<a href="#" class="btn btn-outline-light text-black btn-header mb-5">Ver más</a>-->
           </div>
-          <div class="col-md-6 text-center">
+          <div class="col-md-6 text-center container-right">
             <img src="img/chipInclinada.png" alt="Imagen de un chip" class="img-fluid d-none d-sm-block opacidad">
           </div>
         </div>
@@ -105,7 +102,6 @@
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae natus ipsa adipisci aspernatur unde sunt ipsum aut iste consequatur vero, quia saepe, voluptates id porro omnis, doloremque? Consequuntur, quo libero.
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia harum in optio, itaque, nam soluta doloribus eius. Sint non dolorum qui, totam vitae itaque cupiditate provident temporibus possimus suscipit quam?
           </p>
-          <!--<a href="#" class="btn btn-outline-primary text-black mb-5">Ver más</a>-->
         </div>
         <div class="col-md-6 text-center">
           <img src="img/negocio.jpg" alt="Imagen de negocios" class="img-fluid" width="535px">
@@ -113,7 +109,6 @@
       </div>
     </div>
   </section>
-  <!---->
   <section class="text-right pb-4">
     <div class="container">
       <div class="row">
@@ -128,7 +123,6 @@
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae natus ipsa adipisci aspernatur unde sunt ipsum aut iste consequatur vero, quia saepe, voluptates id porro omnis, doloremque? Consequuntur, quo libero.
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia harum in optio, itaque, nam soluta doloribus eius. Sint non dolorum qui, totam vitae itaque cupiditate provident temporibus possimus suscipit quam?
           </p>
-          <!--<a href="#" class="btn btn-outline-primary text-black mb-5">Ver más</a>-->
         </div>
       </div>
     </div>
