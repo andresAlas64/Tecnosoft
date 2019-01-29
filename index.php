@@ -33,7 +33,7 @@
             <h1>Tecnología avanzada para tus necesidades</h1>
             <p>Lorem ipsum dolor sit amet</p>
           </div>
-          <div class="col-md-6 text-center container-right">
+          <div class="col-md-6 container-right">
             <img src="img/chipInclinada.png" alt="Imagen de un chip" class="img-fluid d-none d-sm-block opacidad">
           </div>
         </div>
@@ -47,7 +47,7 @@
         <div class="m-5">
           <h3>La diferencia de Tecnosoft</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, nemo, vel! Doloremque in dolorem, quaerat blanditiis, rem est et placeat quas, esse vero porro, totam voluptatem fugit quam labore itaque?
+            Porque somos una empresa con un historial de años en el campo de sistemas de software, mantenimiento de equipo de computación, redes y aplicaciones locales o en la nube
           </p>
         </div>
       </div>
@@ -62,7 +62,7 @@
             <div class="card-body">
               <h3>Soporte</h3>
               <p>
-                Brindamos soporte técnico en persona o por la plataforma teamviewer las 24 horas de la semana.
+                Brindamos soporte técnico en persona, teléfono o de manera remota en horario de oficina
               </p>
             </div>
           </div>
@@ -72,7 +72,7 @@
             <div class="card-body">
               <h3>Programas</h3>
               <p>
-                Todo tipo de programas como facturación electrónica, contabilidad, sistemas de cajas, scaner de productos, servicios en la nube Microsoft azure entre otros muchos.
+                Diversos tipos de sistemas como facturación electrónica, contabilidad, sistemas de punto de venta, gestión de inventario, aplicaciones en ambiente local o en la nube
               </p>
             </div>
           </div>
@@ -82,7 +82,7 @@
             <div class="card-body">
               <h3>Mantenimiento</h3>
               <p>
-                Mantenimiento de equipos de computación, servidores y todo tipo de impresoras.
+                Mantenimiento de equipos de computación, servidores y redes
               </p>
             </div>
           </div>
@@ -96,11 +96,8 @@
       <div class="row">
         <div class="col-md-6">
           <h3>Quienes somos</h3>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam labore repellendus quo atque repudiandae, ad blanditiis ipsa incidunt. Voluptatibus repellat, enim ex sed temporibus aperiam suscipit eum non facilis. Eius!
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum iusto doloribus cupiditate nemo voluptates sunt id nobis est maiores, impedit, laudantium, incidunt mollitia ut molestiae aliquid vel reiciendis dolorem eaque.
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae natus ipsa adipisci aspernatur unde sunt ipsum aut iste consequatur vero, quia saepe, voluptates id porro omnis, doloremque? Consequuntur, quo libero.
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia harum in optio, itaque, nam soluta doloribus eius. Sint non dolorum qui, totam vitae itaque cupiditate provident temporibus possimus suscipit quam?
+          <p class="letter-spacing">
+            Tecnosoft Milenio es una empresa que desarrolla software en Costa Rica. Brindamos productos de calidad para nuestros clientes, todo con el fin de dar el mejor servicio posible para nuestros usuarios. Nuestro objetivo como empresa es llegar a más clientes dentro y fuera del país, innovar en las tecnologías que usamos para ofrecer un producto con las especificaciones que requiere el mercado actual
           </p>
         </div>
         <div class="col-md-6 text-center">
@@ -117,11 +114,9 @@
         </div>
         <div class="col-md-6">
           <h3>Misión de Tecnosoft</h3>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam labore repellendus quo atque repudiandae, ad blanditiis ipsa incidunt. Voluptatibus repellat, enim ex sed temporibus aperiam suscipit eum non facilis. Eius!
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum iusto doloribus cupiditate nemo voluptates sunt id nobis est maiores, impedit, laudantium, incidunt mollitia ut molestiae aliquid vel reiciendis dolorem eaque.
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae natus ipsa adipisci aspernatur unde sunt ipsum aut iste consequatur vero, quia saepe, voluptates id porro omnis, doloremque? Consequuntur, quo libero.
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia harum in optio, itaque, nam soluta doloribus eius. Sint non dolorum qui, totam vitae itaque cupiditate provident temporibus possimus suscipit quam?
+          <p class="letter-spacing">
+            Nuestra misión es satisfacer las necesidades de nuestros clientes en el campo de los sistemas de software, redes y mantenimientos de equipos de computación. Ofreciendo soluciones de calidad para cada uno de nuestros usuarios
+
           </p>
         </div>
       </div>
