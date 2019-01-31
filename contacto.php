@@ -57,7 +57,7 @@
             </div>
             <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
               <div class="card-body">
-                2236-7391 / 22367093
+                2236-7391 / 2236-7093
               </div>
             </div>
           </div>

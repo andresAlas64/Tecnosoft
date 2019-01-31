@@ -31,7 +31,7 @@
         <div class="row">
           <div class="col-md-6 justify-content-center align-self-center container-left">
             <h1>Tecnología avanzada para tus necesidades</h1>
-            <p>Lorem ipsum dolor sit amet</p>
+            <p>Desde 1990 desarrollando software</p>
           </div>
           <div class="col-md-6 container-right">
             <img src="img/chipInclinada.png" alt="Imagen de un chip" class="img-fluid d-none d-sm-block opacidad">
@@ -47,7 +47,7 @@
         <div class="m-5">
           <h3>La diferencia de Tecnosoft</h3>
           <p>
-            Porque somos una empresa con un historial de años en el campo de sistemas de software, mantenimiento de equipo de computación, redes y aplicaciones locales o en la nube
+            Porque somos una empresa con un historial de años en el campo de sistemas de software, mantenimiento de equipo de computación, redes y aplicaciones en ambiente local o en la nube
           </p>
         </div>
       </div>
@@ -96,8 +96,8 @@
       <div class="row">
         <div class="col-md-6">
           <h3>Quienes somos</h3>
-          <p class="letter-spacing">
-            Tecnosoft Milenio es una empresa que desarrolla software en Costa Rica. Brindamos productos de calidad para nuestros clientes, todo con el fin de dar el mejor servicio posible para nuestros usuarios. Nuestro objetivo como empresa es llegar a más clientes dentro y fuera del país, innovar en las tecnologías que usamos para ofrecer un producto con las especificaciones que requiere el mercado actual
+          <p>
+            Tecnosoft Milenio somos una empresa con un historial de años en el desarrollo de software en Costa Rica. Brindamos productos de calidad para nuestros clientes, todo con el fin de dar el mejor servicio posible para nuestros usuarios. Nuestro objetivo como empresa es llegar a más clientes dentro y fuera del territorio, ofrecer un servicio totalmente personalizado responsable y serio, innovar en las tecnologías que usamos para ofrecer un producto con las especificaciones que requiere el mercado actual
           </p>
         </div>
         <div class="col-md-6 text-center">
@@ -114,9 +114,8 @@
         </div>
         <div class="col-md-6">
           <h3>Misión de Tecnosoft</h3>
-          <p class="letter-spacing">
-            Nuestra misión es satisfacer las necesidades de nuestros clientes en el campo de los sistemas de software, redes y mantenimientos de equipos de computación. Ofreciendo soluciones de calidad para cada uno de nuestros usuarios
-
+          <p>
+            Nuestra misión es satisfacer las necesidades y requerimientos de nuestros clientes en el campo de los sistemas de software, redes de computación y mantenimientos de equipos de computación. Ofreciendo soluciones de calidad y a un precio asequible para cada uno de nuestros usuarios
           </p>
         </div>
       </div>
