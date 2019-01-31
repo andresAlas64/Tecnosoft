@@ -31,7 +31,7 @@
         <div class="row">
           <div class="col-md-6 justify-content-center align-self-center container-left">
             <h1>Tecnología avanzada para tus necesidades</h1>
-            <p>Desde 1990 desarrollando software</p>
+            <p>Desde 1998 desarrollando software</p>
           </div>
           <div class="col-md-6 container-right">
             <img src="img/chipInclinada.png" alt="Imagen de un chip" class="img-fluid d-none d-sm-block opacidad">
@@ -47,7 +47,7 @@
         <div class="m-5">
           <h3>La diferencia de Tecnosoft</h3>
           <p>
-            Porque somos una empresa con un historial de años en el campo de sistemas de software, mantenimiento de equipo de computación, redes y aplicaciones en ambiente local o en la nube
+            Porque somos una empresa con un historial de años en el campo de sistemas informaticos, mantenimiento de equipo de computación, redes y aplicaciones en ambiente local o en la nube
           </p>
         </div>
       </div>
@@ -115,7 +115,7 @@
         <div class="col-md-6">
           <h3>Misión de Tecnosoft</h3>
           <p>
-            Nuestra misión es satisfacer las necesidades y requerimientos de nuestros clientes en el campo de los sistemas de software, redes de computación y mantenimientos de equipos de computación. Ofreciendo soluciones de calidad y a un precio asequible para cada uno de nuestros usuarios
+            Nuestra misión es satisfacer las necesidades y requerimientos de nuestros clientes en el campo de los sistemas informáticos, redes de computación y mantenimientos de equipos. Ofreciendo soluciones de calidad y a un precio asequible para cada uno de nuestros clientes
           </p>
         </div>
       </div>
